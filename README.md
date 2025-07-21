@@ -9,7 +9,7 @@ I've been coding for 3 years, working with RESTful APIs, client and management d
 
 * 🌍  I'm based in Las Vegas
 * 🧠  I'm learning C++ 
-* ⚡  I also have some skills while talking about Direct Memory Access devices and systems.
+* ⚡  I also have a strong interest in reverse engineering, game hacking, CVEs, and Direct Memory Access devices and systems.
 
 ### Skills
 
