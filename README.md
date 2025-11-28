@@ -5,7 +5,7 @@ My name is uaixp
 Full Stack Web Developer
 ------------------------
 
-I've been coding for 3 years, working with RESTful APIs, client and management dashboards, responsive designs, and backend development. My experience includes payment transactions, login and registration systems, data creation, and database management with PostgreSQL.
+I've been coding for 4 years, working with RESTful APIs, client and management dashboards, responsive designs, and backend development. My experience includes payment transactions, login and registration systems, data creation, and database management with PostgreSQL.
 
 * 🌍  I'm based in Las Vegas
 * 🧠  I'm learning C++ 
